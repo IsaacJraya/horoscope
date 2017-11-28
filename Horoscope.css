@@ -1,0 +1,18 @@
+body {
+    font-family: "Chalkboard";
+    vertical-align: top;
+    background-color: antiquewhite;
+    background-image: url(https://i.pinimg.com/originals/96/f4/86/96f486a701a402d0e083d4c588a6e544.jpg);
+    background-size: cover;
+    color: white;
+
+}
+
+#image{
+    margin: 200px;
+    display: block;
+    margin-top: 50px;
+}
+
+
+
